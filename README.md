@@ -18,7 +18,7 @@
 
 * [binom_6.ipynb](./binom_6.ipynb)
 
-## Литература
+## Зависимости
 
 * [req.txt](./req.txt)
 
